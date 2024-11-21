@@ -13,7 +13,7 @@ Brand: Nike Air Max
 Price: 200
 Input the following 5 shoes:
 
-Shoe 1: Nike Air Max, Price: 200
+Shoe 1: Nike Air Max, Price: 200 \n
 Shoe 2: Adidas Yeezy, Price: 300
 Shoe 3: Puma Suede, Price: 150
 Shoe 4: Reebok Classic, Price: 180
